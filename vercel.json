@@ -1,0 +1,1 @@
+{"version":2,"buildCommand":"cd apps/preview && npm install && npm run build","outputDirectory":"apps/preview/dist"}
